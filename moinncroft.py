@@ -90,7 +90,7 @@ class Hand(Entity):
 
 
 
-howMuchTerrain = 5
+howMuchTerrain = 20
 
 shellies = []
 
