@@ -7,3 +7,11 @@ REQUIREMENTS ARE:
 Having python installed
 Having the Ursina library
 Having the perlin noise library
+
+
+CONTROLS:
+1-2-3-4 to switch between blocks types 
+right click to remove a block
+left click to add it
+W-A-S-D to move
+space to jump
